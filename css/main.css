@@ -1,0 +1,29 @@
+body {
+	text-align: center;
+	background-image: url("../img/stars.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#titlehead {
+	text-align: left;
+	color: white;
+	text-decoration: underline;
+	margin-left: 10px;
+}
+
+.form-group h1 {
+	color: white;
+}
+
+#yourSign {
+	color: white;
+}
+
+#yourHoroscope { 
+	color: white;
+}
+
+#icon {
+	text-align: center;
+}
